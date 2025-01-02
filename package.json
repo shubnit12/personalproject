@@ -1,0 +1,19 @@
+{
+  "name": "personalproject",
+  "version": "1.0.0",
+  "description": "mern stack project",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/shubnit12/personalproject.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/shubnit12/personalproject/issues"
+  },
+  "homepage": "https://github.com/shubnit12/personalproject#readme"
+}
