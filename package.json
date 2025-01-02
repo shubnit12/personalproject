@@ -15,5 +15,8 @@
   "bugs": {
     "url": "https://github.com/shubnit12/personalproject/issues"
   },
-  "homepage": "https://github.com/shubnit12/personalproject#readme"
+  "homepage": "https://github.com/shubnit12/personalproject#readme",
+  "dependencies": {
+    "express": "^4.21.2"
+  }
 }
