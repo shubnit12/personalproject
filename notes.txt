@@ -1,0 +1,6 @@
+motion.dev -- motion and animations
+mui material || daisyui.com -- ui components 
+recharts -- charts in js
+nodejs.org/api/documentation.html -- nodejs docs
+mongoosejs.com -- database
+expressjs.com/en/5x/api/html -- server
